@@ -2,9 +2,9 @@
 
 ## Integrantes
 
-Brunne Felix
-
 Carolina Villa
+
+Brunne Felix
 
 Jesús Arce
 
